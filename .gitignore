@@ -1,0 +1,14 @@
+/build
+.classpath
+.project
+spring-*/src/main/java/META-INF/MANIFEST.MF
+
+buildSrc/build
+/spring-*/build
+/src/asciidoc/build
+target/
+
+bin
+build.sh
+
+.gradle
